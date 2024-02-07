@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+table,
+th {
+    border: 1px solid #ddd;
+}
+
+th {
+    padding: 10px;
+    text-align: left;
+}
+
+.head {
+    background-color: #f2f2f2;
+}
+
+tbody {
+    color: #000000c4;
+}
+
+tbody th {
+    font-weight: 500;
+}
